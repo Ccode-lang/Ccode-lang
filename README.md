@@ -10,3 +10,6 @@ please check these out.
 
 # I also love making chatbots
 check out chatbot repo to see how I make them
+
+#### contact
+email: coop112097@gmail.com
