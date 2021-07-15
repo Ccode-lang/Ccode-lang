@@ -11,6 +11,7 @@ please check these out.
 
 ### I am contributing to
 1. py2v (https://github.com/vlang/py2v)
+2. vlang coreutils (https://github.com/vlang/coreutils)
 
 ### I also love making chatbots
 check out chatbot repo to see how I make them
