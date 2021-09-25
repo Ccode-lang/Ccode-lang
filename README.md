@@ -2,16 +2,16 @@
 I'm a hobbyist who loves to write CLI software.  
 
 Some of my best repos are:  
-1. Foxtail (https://github.com/Ccode-lang/foxtail)
-2. Ccode (https://github.com/Ccode-lang/Ccode)
-3. Drum Bash (https://github.com/Ccode-lang/drumbash)
+* Foxtail (https://github.com/Ccode-lang/foxtail)
+* Ccode (https://github.com/Ccode-lang/Ccode)
+* Drum Bash (https://github.com/Ccode-lang/drumbash)
 
 
 please check these out.
 
 ### I am contributing to
-1. py2v (https://github.com/vlang/py2v)
-2. vlang coreutils (https://github.com/vlang/coreutils)
+* Vlang coreutils (https://github.com/vlang/coreutils)
+* Vinix os (https://github.com/vlang/vinix)
 
 #### contact
 email: coop112097@gmail.com
