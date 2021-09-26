@@ -15,5 +15,3 @@ please check these out.
 
 # contact
 email: coop112097@gmail.com
-
-[![Stats1](https://github-readme-stats.vercel.app/api?username=Ccode-lang&show_icons=true)](https://github.com/Ccode-lang/) <br />
