@@ -1,4 +1,4 @@
-### Hi there I'm Ccode-lang
+# Hi there I'm Ccode-lang
 I'm a hobbyist who loves to write CLI software.  
 
 Some of my best repos are:  
@@ -9,9 +9,11 @@ Some of my best repos are:
 
 please check these out.
 
-### I am contributing to
+# I am contributing to
 * [Vlang coreutils](https://github.com/vlang/coreutils)
 * [Vinix os](https://github.com/vlang/vinix)
 
-#### contact
+# contact
 email: coop112097@gmail.com
+
+[![Stats1](https://github-readme-stats.vercel.app/api?username=Ccode-lang&show_icons=true)](https://github.com/Ccode-lang/) <br />
