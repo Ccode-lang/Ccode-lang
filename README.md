@@ -18,5 +18,12 @@ please check these out.
 
 # I am interested in
 * Programming robots
+* java
+
+[![Ccode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ccode-lang)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 # contact
 email: coop112097@gmail.com
