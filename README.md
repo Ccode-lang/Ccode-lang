@@ -14,7 +14,7 @@ please check these out.
 * [Peregrine](https://github.com/peregrine-lang/Peregrine)
 * [Vlang coreutils](https://github.com/vlang/coreutils)
 * [Vinix os](https://github.com/vlang/vinix)
-* [FRC](https://github.com/FRC-Team-8745)
+* [My FRC team](https://github.com/FRC-Team-8745)
 
 # I am interested in
 * Programming robots
