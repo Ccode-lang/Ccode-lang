@@ -19,6 +19,8 @@ please check these out.
 # I am interested in
 * Programming robots
 * java
+* package managers
+* data storage
 
 [![Ccode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ccode-lang)](https://github.com/anuraghazra/github-readme-stats)
 
