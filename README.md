@@ -21,8 +21,10 @@ please check these out.
 * java
 * package managers
 * data storage
-
+# stats 
+(Langs shows everything I contribute to, it does not mean I'm good at the language!)  
 [![Ccode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ccode-lang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ccode-lang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
