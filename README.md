@@ -10,16 +10,16 @@ Some of my best repos are:
 
 please check these out.
 
-<!--
-WIP
+
+```
+                                               ,_,
+                                               | |
+ __    ____    __    ___    __    ____    __   | |
+ \ \  / /\ \  / /   /,_,\   \ \  / /\ \  / /   |_|
+  \ \/ /  \ \/ /   | |_| |   \ \/ /  \ \/ /    ,_,
+   \__/    \__/     \___/     \__/    \__/     |_|
 ```
 
-                ___
- \    /\    /  /   \
-  \  /  \  /  |     |
-   \/    \/    \___/   
-```
--->
 
 # I am contributing to
 * [Peregrine](https://github.com/peregrine-lang/Peregrine)
