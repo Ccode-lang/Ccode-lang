@@ -2,6 +2,7 @@
 I'm a hobbyist who loves to write CLI software.  
 
 Some of my best repos are:  
+* [Strawberry package manager](https://github.com/Ccode-lang/strawberry)
 * [Ccode](https://github.com/Ccode-lang/Ccode)
 * [Echo](https://github.com/Ccode-lang/echo-lang)
 * [Foxtail](https://github.com/Ccode-lang/foxtail)
