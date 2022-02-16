@@ -2,6 +2,7 @@
 I'm a hobbyist who loves to write CLI software.  
 
 Some of my best repos are:  
+* [CHex bytecode vm (Compiler WIP)](https://github.com/Ccode-lang/CHex)
 * [Strawberry package manager](https://github.com/Ccode-lang/strawberry)
 * [Ccode](https://github.com/Ccode-lang/Ccode)
 * [Echo](https://github.com/Ccode-lang/echo-lang)
@@ -32,6 +33,7 @@ please check these out.
 * Programming robots
 * java
 * package managers
+* bianary
 * data storage
 * CTF
 # stats 
@@ -43,4 +45,4 @@ please check these out.
 
 
 # contact
-email: coop112097@gmail.com
+email: coop112097@gmail.com (I don't look at this very often)
