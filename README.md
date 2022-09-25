@@ -1,8 +1,6 @@
 # Hi there I'm Ccode-lang
 I'm a hobbyist who loves to write CLI software.  
 
-`Sorry for the inactivity I'll be back very soon.`
-
 Some of my best repos are:  
 * [Joe home assitant](https://github.com/Ccode-lang/joe)
 * [CHex bytecode vm (Compiler WIP)](https://github.com/Ccode-lang/CHex)
