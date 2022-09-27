@@ -11,8 +11,9 @@ Some of my best repos are:
 * [Drum Bash](https://github.com/Ccode-lang/drumbash)
 
 
-please check these out.
+please check these out.  
 
+## Encryption is cool (https://github.com/Ccode-lang/LAKE)
 
 ```
                                                 ,_,
