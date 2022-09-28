@@ -2,12 +2,10 @@
 I'm a hobbyist who loves to write CLI software.  
 
 Some of my best repos are:  
+* [Xander discord bot](https://github.com/Ccode-lang/xander)
+* [LAKE algorithm](https://github.com/Ccode-lang/LAKE)
 * [Joe home assitant](https://github.com/Ccode-lang/joe)
-* [CHex bytecode vm (Compiler WIP)](https://github.com/Ccode-lang/CHex)
 * [Strawberry package manager](https://github.com/Ccode-lang/strawberry)
-* [Ccode](https://github.com/Ccode-lang/Ccode)
-* [Echo](https://github.com/Ccode-lang/echo-lang)
-* [Foxtail](https://github.com/Ccode-lang/foxtail)
 * [Drum Bash](https://github.com/Ccode-lang/drumbash)
 
 
