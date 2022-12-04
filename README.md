@@ -9,8 +9,6 @@ Some of my best repos are:
 * [Drum Bash](https://github.com/Ccode-lang/drumbash)
 
 
-I will be getting ready for Hacktoberfest so I will not be active.
-
 ## Encryption is cool (https://github.com/Ccode-lang/LAKE)
 
 ```
@@ -29,6 +27,7 @@ I will be getting ready for Hacktoberfest so I will not be active.
 * [Vinix os](https://github.com/vlang/vinix)
 
 # I am interested in
+* GUI
 * The IOT
 * Programming robots
 * Java
