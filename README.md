@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/github/stars/Ccode-lang?label=Stars" alt="stars">
+
 # Hi there I'm Ccode-lang
 I'm a hobbyist who loves to write CLI software.  
 
