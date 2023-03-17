@@ -42,6 +42,7 @@ Some of my best repos are:
 [![Ccode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ccode-lang)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ccode-lang)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-profile-trophy.vercel.app/?username=Ccode-lang&theme=juicyfresh&no-bg=true" />
+<img src="https://komarev.com/ghpvc/?username=Ccode-lang&color=brightgreen" alt="watching_count" />
 
 
 
