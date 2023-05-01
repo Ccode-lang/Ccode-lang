@@ -24,9 +24,7 @@ Some of my best repos are:
 
 
 # I am contributing to
-* [Peregrine](https://github.com/peregrine-lang/Peregrine)
-* [Vlang coreutils](https://github.com/vlang/coreutils)
-* [Vinix os](https://github.com/vlang/vinix)
+* [Xander disord bot](https://github.com/Ccode-lang/xander)
 
 # I am interested in
 * GUI
@@ -34,7 +32,7 @@ Some of my best repos are:
 * Programming robots
 * Java
 * Package managers
-* Bianary
+* Binary
 * Data storage
 * CTF
 # stats 
