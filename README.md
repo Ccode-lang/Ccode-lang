@@ -3,7 +3,7 @@
 # Hi there I'm Ccode-lang
 I'm a hobbyist who loves to write CLI software.  
 
-![](https://discord.c99.nl/widget/theme-1/837119081790046228.png)  
+![](https://discord.c99.nl/widget/theme-2/837119081790046228.png)  
 
 Some of my best repos are:  
 * [Xander discord bot](https://github.com/Ccode-lang/xander)
