@@ -27,6 +27,7 @@ Some of my best repos are:
 
 # I am contributing to
 * [Xander disord bot](https://github.com/Ccode-lang/xander)
+* The Biodiversity project. (a large LC modder collab)
 
 # I am interested in
 * GUI
