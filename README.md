@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/github/stars/Ccode-lang?label=Stars" alt="stars">
 
-# Hi there I'm Ccode-lang
-I'm a hobbyist who loves to write CLI software.  
+# Hi there, I'm Ccode-lang
+I'm a CS student who loves to write software.  
 
 ![](https://discord.c99.nl/widget/theme-2/837119081790046228.png)  
 
@@ -12,32 +12,16 @@ Some of my best repos are:
 * [Strawberry package manager](https://github.com/Ccode-lang/strawberry)
 * [Drum Bash](https://github.com/Ccode-lang/drumbash)
 
-
-## Encryption is cool (https://github.com/Ccode-lang/LAKE)
-
-```
-                                                ,_,
- __      __      __                             | |
- \ \    /  \    / /   ___    __    ____    __   | |
-  \ \  / /\ \  / /   /,_,\   \ \  / /\ \  / /   |_|
-   \ \/ /  \ \/ /   | |_| |   \ \/ /  \ \/ /    ,_,
-    \__/    \__/     \___/     \__/    \__/     |_|
-```
-
-
 # I am contributing to
-* [Xander disord bot](https://github.com/Ccode-lang/xander)
+* [Tamale game engine](https://github.com/Ccode-lang/Tamale)
 * The Biodiversity project. (a large LC modder collab)
 
 # I am interested in
-* GUI
-* The IOT
-* Programming robots
-* Java
-* Package managers
-* Binary
-* Data storage
-* CTF
+* Low-level development
+* Game development
+* Backend development
+
+
 # stats 
 (Langs shows everything I contribute to, it does not mean I'm good at the language!)  
 [![Ccode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ccode-lang)](https://github.com/anuraghazra/github-readme-stats)
