@@ -5,16 +5,10 @@ I'm a CS student who loves to write software.
 
 ![](https://discord.c99.nl/widget/theme-2/837119081790046228.png)  
 
-Some of my best repos are:  
-* [Xander discord bot](https://github.com/Ccode-lang/xander)
-* [LAKE algorithm](https://github.com/Ccode-lang/LAKE)
-* [Joe home assitant](https://github.com/Ccode-lang/joe)
-* [Strawberry package manager](https://github.com/Ccode-lang/strawberry)
-* [Drum Bash](https://github.com/Ccode-lang/drumbash)
-
 # I am contributing to
 * [Tamale game engine](https://github.com/Ccode-lang/Tamale)
 * The Biodiversity project. (a large LC modder collab)
+* [Xander discord bot](https://github.com/Ccode-lang/xander) (sometimes)
 
 # I am interested in
 * Low-level development
